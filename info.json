@@ -1,0 +1,175 @@
+{
+  "name":"Albanian Skills 5",
+  "location": {
+    "city":"Tirana, Albania",
+    "address": "Rinas Road | Building Nr 07",
+    "latitude": 41.4094041,
+    "longitude": 19.7058654
+  },
+  "banner": "https://www.brightedge.com/sites/default/files/sharebanner-events.png",
+  "date": "May 17, 2018",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in metus ac turpis cursus suscipit at a nisi. Praesent eu vehicula ante. Nullam viverra diam erat, at venenatis leo rutrum non. Integer vulputate aliquam augue, et hendrerit erat pellentesque in. Suspendisse tempor urna lorem, quis ornare tellus tristique et.",
+  "speakers": [
+    {
+      "name": "Dawn Schneider",
+      "bio": "Nisi eiusmod Lorem tempor nulla cillum ullamco. Tempor cupidatat ad duis incididunt ut nulla ea laborum labore occaecat laborum. Proident nostrud ea mollit esse veniam culpa do minim eiusmod. Deserunt pariatur proident excepteur dolor.\r\n",
+      "twitter": "esse",
+      "github": "occaecat",
+      "subtitle": "Mobile Developer at Buzzopia",
+      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
+    },
+    {
+      "name": "Bernard Marquez",
+      "bio": "Cillum pariatur ex consectetur enim culpa laboris officia nisi. Nulla quis exercitation non amet incididunt nulla mollit pariatur reprehenderit exercitation irure. Non ea exercitation sit velit mollit est amet laboris veniam do. Ut officia ad labore adipisicing tempor Lorem nisi irure tempor mollit ut quis. Et occaecat consectetur ipsum consequat. Aliquip reprehenderit ea minim incididunt anim irure anim nisi nisi laboris anim. Eu commodo minim ad voluptate cillum deserunt ipsum tempor mollit velit reprehenderit exercitation.\r\n",
+      "twitter": "proident",
+      "github": "amet",
+      "subtitle": "Freelance at Eschoir",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E8qd1Q4h8SKOgqNfwS5cBs6BkQ2EIZRXxiR86lPwwvB559Lbqg"
+    },
+    {
+      "name": "Eileen Quinn",
+      "bio": "Eiusmod ex et ad exercitation amet ad proident. Consectetur dolore fugiat amet cupidatat aute elit ea veniam sit excepteur irure. Nostrud deserunt aliquip esse enim consequat non reprehenderit consequat anim duis ipsum in. Eu adipisicing aliquip culpa laboris velit ipsum culpa quis aute. Veniam ad in fugiat proident eu officia consectetur sit.\r\n",
+      "twitter": "excepteur",
+      "github": "eiusmod",
+      "subtitle": "CEO at Tropolis",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SvMXT2J0U7oCXnO5nSdd5n5lKAWnSthZUzOCHs6phpNqNwDh"
+    },
+    {
+      "name": "Wiggins Lopez",
+      "bio": "Nostrud reprehenderit labore in ex do amet culpa elit pariatur. Magna officia nulla consectetur est. Aliquip ullamco nostrud veniam ipsum in. Elit Lorem nostrud voluptate non officia enim aliquip ullamco qui irure ea aute ullamco. Culpa consectetur deserunt exercitation commodo culpa anim. Tempor excepteur excepteur aute irure proident.\r\n",
+      "twitter": "eu",
+      "github": "est",
+      "subtitle": "Senior Frontend at Protodyne",
+      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/111863/profile/profile-512.jpg?6"
+    },
+    {
+      "name": "Hyde Head",
+      "bio": "In exercitation dolor aute in eu. Non ut sit reprehenderit tempor non pariatur. Tempor consequat sint minim occaecat qui exercitation deserunt eiusmod occaecat cupidatat eiusmod. Minim proident ullamco consectetur mollit consectetur cupidatat nulla enim occaecat ut id. Amet irure proident qui do ex.\r\n",
+      "twitter": "nostrud",
+      "github": "elit",
+      "subtitle": "Backend Developer at Poochies",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruKhAom5oaOsrnVP1WIm0Y2QjkrmBN28lmxYauGZ-OKEaVKUD"
+    },
+    {
+      "name": "Terry Hurst",
+      "bio": "Est culpa consequat non ut ad aliquip commodo commodo officia aliquip dolor nostrud enim est. Commodo velit occaecat laborum ad excepteur aute officia. Laboris nulla incididunt culpa magna dolor consequat id nulla est consectetur fugiat. Eu consequat in id veniam labore ipsum cupidatat consequat veniam ex enim occaecat id. Et qui aute amet non amet commodo labore incididunt Lorem.\r\n",
+      "twitter": "ea",
+      "github": "laborum",
+      "subtitle": "Founder at Proflex",
+      "avatar": "http://endlesstheme.com/Endless1.5.1/img/user2.jpg"
+    },
+    {
+      "name": "Bruce Pate",
+      "bio": "Laboris et voluptate cillum tempor laborum in irure aliqua mollit excepteur magna do fugiat. Ullamco tempor sunt exercitation incididunt anim aute veniam in mollit mollit exercitation minim proident. Sit adipisicing reprehenderit duis sunt officia culpa consectetur qui minim officia et aliquip et.\r\n",
+      "twitter": "Lorem",
+      "github": "sint",
+      "subtitle": "Founder at Lyria",
+      "avatar": "https://relayfm.s3.amazonaws.com/uploads/user/avatar/4/user_avatar_mykehurley_artwork.png"
+    }
+  ],
+  "events": [
+    {
+      "title": "8:00 am",
+      "data": [
+        { "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#33E4F0"},
+        { "name" : "Meet and Greet", "time": "9:00 am - 9:15 am", "place": "Main hallway", "color":"#33E4F0"}
+      ]
+    },
+    {
+      "title": "9:15 am",
+      "data": [
+        { "name" : "Introduction to Booster.io", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Getting started with React Native", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Advanced JSX", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "10:00 am",
+      "data": [
+        { "name" : "Migration to Expo", "time": "10:00 am - 10:15 am", "place": "Room 2203", "color":"#C12071", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "React Native SVG Icons", "time": "10:15 am - 10:30 am", "place": "Room 2202", "color":"#30C120", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "HapiJS Services", "time": "10:30 am - 10:45 am", "place": "Room 2204", "color":"#DEC311", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Workshop - Advanced JSX", "time": "10:45 am - 11:00 am", "place": "Room 2201", "color":"#36BBE4", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "11:00 am",
+      "data": [
+        { "name" : "Migration from Ionic", "time": "11:00 am - 11:15 am", "place": "Room 2203", "color":"#C12071", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Community Integration", "time": "11:15 am - 11:30 am", "place": "Room 2202", "color":"#808080", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Feathers Workshop", "time": "11:30 am - 12:00 pm", "place": "Room 2204", "color":"#DEC311", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "12:00 pm",
+      "data": [
+        { "name" : "Lunch", "time": "12:00 pm - 1:15 pm", "place": "Auditorium", "color":"#33E4F0"}
+      ]
+    },
+    {
+      "title": "1:15 pm",
+      "data": [
+        { "name" : "Introduction to Booster.io", "time": "1:15 pm - 1:30 pm", "place": "Room 2203", "color":"#3392F0", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Getting started with React Native", "time": "1:30 pm - 1:45 pm", "place": "Room 2202", "color":"#3392F0", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Advanced JSX", "time": "1:45 pm - 2:00 pm", "place": "Room 2204", "color":"#F05233", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "2:00 pm",
+      "data": [
+        { "name" : "Migration to Expo", "time": "2:00 pm - 2:15 pm", "place": "Room 2203", "color":"#C12071", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "React Native SVG Icons", "time": "2:15 pm - 2:30 pm", "place": "Room 2202", "color":"#30C120", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "HapiJS Services", "time": "2:30 pm - 2:45 pm", "place": "Room 2204", "color":"#DEC311", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Workshop - Advanced JSX", "time": "2:45 pm - 3:00 pm", "place": "Room 2201", "color":"#36BBE4", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "3:00 pm",
+      "data": [
+        { "name" : "Migration from Ionic", "time": "3:00 pm - 3:15 pm", "place": "Room 2203", "color":"#C12071", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Community Integration", "time": "3:15 pm - 3:30 pm", "place": "Room 2202", "color":"#808080", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Feathers Workshop", "time": "3:30 pm - 4:00 pm", "place": "Room 2204", "color":"#DEC311", 
+          "speaker":"John Doe",
+          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    }
+  ]
+}
