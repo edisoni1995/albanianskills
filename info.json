@@ -1,301 +1,303 @@
 {
-	"name":"Albanian Skills 5",
-	"location": {
-		"city":"Tirana, Albania",
-		"address": "Rinas Road | Building Nr 07",
-		"latitude": 41.4094041,
-		"longitude": 19.7058654
-	},
-	"banner": "https://www.albanianskills.org/wp-content/uploads/2019/04/AS-2019_Page_5.png",
-	"date": " 6 - 12 May, 2019",
-	"description": "We are an independent Albanian Swiss initiative without any economic intentions. It’s our strong belief that a country’s functioning economy necessarily needs well-skilled and qualified professionals in addition to theoretically educated academics. Therefore we are also convinced that a good education system must be built on a strong system of vocational education and training.We want to promote skills and thereby improve the recognition and status of vocational education and training in the Albanian society. For this purpose we annually organize Skills Competitions in Albania.",
-	"team": 
-	{
-		"founders": {
-			"name": "Founders",
-			"items": [
-				{  
-				    "name":"Ana Zacharian",
-				    "bio":"\nCo-Founder and CEO  \nAlbanian Skills-National Association for Skills Competitions \nMechanical Engineer\nExpert in Management and Vocational Education & Training \nVolunteer at WorldSkills 2013\n\n",
-				    "subtitle":"Initiator AlbanianSkills",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/03/portrait-ana.jpg",
-				    "facebook":"https://www.facebook.com/ana.zacharian",
-				    "twitter":"https://twitter.com/AnaZacharian",
-				    "linkedin":"https://www.linkedin.com/pub/ana-zacharian/16/744/6b7"
-				},
-				{  
-				    "name":"Stephan Leiser",
-				    "bio":"\nCo-Founder \nAlbanian Skills-National Association for Skills Competitions \nSoftware Engineer\nBusiness Owner\nExpert in Vocational\nEducation & Training\n",
-				    "subtitle":"Initiator AlbanianSkills",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2018/02/portrait-stephan.jpg",
-				    "facebook":"https://www.facebook.com/stephan.leiser.69",
-				    "twitter":"https://twitter.com/bbkompetenz",
-				    "linkedin":"https://www.linkedin.com/in/stephanleiser"
-				},
-				{  
-				    "name":"Fatmira Prodani",
-				    "bio":" \nJury Graphic Design\nIT & Multimedia -Lecturer\n\n\n",
-				    "subtitle":"Co-Founder and Board Member \nAlbanian Skills-National Association for Skills Competitions",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/02/portrait-fatmira.jpg",
-				    "facebook":"https://www.facebook.com/mira.prodani"
-				},
-				{  
-				    "name":"Alma Shkreli",
-				    "bio":" \nTeacher\nExpert and Consultant in Vocational Education & Training\nVolunteer EuroSkills 2016",
-				    "subtitle":"Mentor Coordination Volunteering  \nCo-Founder and Board Member  \nAlbanian Skills-National Association for Skills Competitions ",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/12/portrait-alma.jpg",
-				    "facebook":"https://www.facebook.com/alma.shkreli.5",
-				    "linkedin":"https://www.linkedin.com/in/alma-shkreli-854176b"
-				},
-				{  
-				    "name":"Gentian Likaj",
-				    "bio":" \nTelecommunication Engineer & Expert ICT Sector \nManaging Director Communication Progress \n\n\n\n",
-				    "subtitle":" Co-Founder and Board Member \nAlbanian Skills-National Association for Skills Competitions ",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/04/gent-foto-black-white.png",
-				    "facebook":"https://www.facebook.com/g.likaj",
-				    "linkedin":"https://al.linkedin.com/in/gentianlikaj"
-				}
-			]
+  "name":"Albanian Skills 5",
+  "location": {
+    "city":"Tirana, Albania",
+    "address": "Rinas Road | Building Nr 07",
+    "latitude": 41.4094041,
+    "longitude": 19.7058654
+  },
+  "banner": "https://www.albanianskills.org/wp-content/uploads/2019/04/AS-2019_Page_5.png",
+  "date": " 6 - 12 May, 2019",
+  "description": "We are an independent Albanian Swiss initiative without any economic intentions. It’s our strong belief that a country’s functioning economy necessarily needs well-skilled and qualified professionals in addition to theoretically educated academics. Therefore we are also convinced that a good education system must be built on a strong system of vocational education and training.We want to promote skills and thereby improve the recognition and status of vocational education and training in the Albanian society. For this purpose we annually organize Skills Competitions in Albania.",
+  "team": 
+  {
+    "founders": {
+      "name": "Founders",
+      "items": [
+        {  
+            "name":"Ana Zacharian",
+            "bio":"\nCo-Founder and CEO  \nAlbanian Skills-National Association for Skills Competitions \nMechanical Engineer\nExpert in Management and Vocational Education & Training \nVolunteer at WorldSkills 2013\n\n",
+            "subtitle":"Initiator AlbanianSkills",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/03/portrait-ana.jpg",
+            "facebook":"https://www.facebook.com/ana.zacharian",
+            "twitter":"https://twitter.com/AnaZacharian",
+            "linkedin":"https://www.linkedin.com/pub/ana-zacharian/16/744/6b7"
+        },
+        {  
+            "name":"Stephan Leiser",
+            "bio":"\nCo-Founder \nAlbanian Skills-National Association for Skills Competitions \nSoftware Engineer\nBusiness Owner\nExpert in Vocational\nEducation & Training\n",
+            "subtitle":"Initiator AlbanianSkills",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2018/02/portrait-stephan.jpg",
+            "facebook":"https://www.facebook.com/stephan.leiser.69",
+            "twitter":"https://twitter.com/bbkompetenz",
+            "linkedin":"https://www.linkedin.com/in/stephanleiser"
+        },
+        {  
+            "name":"Fatmira Prodani",
+            "bio":" \nJury Graphic Design\nIT & Multimedia -Lecturer\n\n\n",
+            "subtitle":"Co-Founder and Board Member \nAlbanian Skills-National Association for Skills Competitions",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/02/portrait-fatmira.jpg",
+            "facebook":"https://www.facebook.com/mira.prodani"
+        },
+        {  
+            "name":"Alma Shkreli",
+            "bio":" \nTeacher\nExpert and Consultant in Vocational Education & Training\nVolunteer EuroSkills 2016",
+            "subtitle":"Mentor Coordination Volunteering  \nCo-Founder and Board Member  \nAlbanian Skills-National Association for Skills Competitions ",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/12/portrait-alma.jpg",
+            "facebook":"https://www.facebook.com/alma.shkreli.5",
+            "linkedin":"https://www.linkedin.com/in/alma-shkreli-854176b"
+        },
+        {  
+            "name":"Gentian Likaj",
+            "bio":" \nTelecommunication Engineer & Expert ICT Sector \nManaging Director Communication Progress \n\n\n\n",
+            "subtitle":" Co-Founder and Board Member \nAlbanian Skills-National Association for Skills Competitions ",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/04/gent-foto-black-white.png",
+            "facebook":"https://www.facebook.com/g.likaj",
+            "linkedin":"https://al.linkedin.com/in/gentianlikaj"
+        }
+      ]
 
-		},
-		"web": {
-			"name": "Web Development",
-			"items": [
-				{  
-					"name":"Edison Biba",
-					"bio":"\n Informatics\nCo-founder at Leeto\nSoftware Engineer\n\n\n",
-					"subtitle":"Jury Web Development",
-					"avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/edison-1-e1551498614742.jpg",
-					"linkedin":"https://www.linkedin.com/in/edison-biba-345402124/"
-				},
-				{  
-					"name":"Leulinda Gutaj",
-					"bio":"\nICT Project Manager\nStudent B.Sc. Business Information and Technology\n\n",
-					"subtitle":"Event Management",
-					"avatar":"https://www.albanianskills.org/wp-content/uploads/2016/01/portrait-leulinda.jpg",
-					"facebook":"https://www.facebook.com/leulinda",
-					"linkedin":"https://www.linkedin.com/in/leulinda-gutaj-a9128a10a"
-			    },
-				{  
-					"name":"Lisandër Çuedari",
-					"bio":"\nM.Sc. Computer Engineering\nSenior Software Developer at EasyPay Albania\nIT Trainer & Academy Director\n",
-					"subtitle":"Jury Web Development",
-					"avatar":"https://www.albanianskills.org/wp-content/uploads/2017/04/portrait-lisander.jpg",
-					"facebook":"https://www.facebook.com/profile.php?id=100009164194825",
-					"linkedin":"https://www.linkedin.com/in/lisand%C3%ABr-%C3%A7uedari-70b292102/"
-				},
-				{  
-					"name":"Patrick Zahnd",
-					"bio":"\nSoftware & Systems Engineer\nJury Member Swiss ICT Skills\nSwiss Champion Web Design 2009\n",
-					"subtitle":"Jury Web Development",
-					"avatar":"https://www.albanianskills.org/wp-content/uploads/2015/01/portrait-patrick.jpg",
-					"facebook":"https://www.facebook.com/pazaaa",
-					"linkedin":"http://ch.linkedin.com/pub/patrick-zahnd/10/16/743/de"
-				},
-				{  
-				    "name":"Renato Toni",
-				    "bio":"\nM.Sc. Informatics\nSenior Solution Architect\n Telecom Industry\n\n",
-				    "subtitle":"Jury Web Development",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2017/04/renato.jpg",
-				    "linkedin":"https://www.linkedin.com/in/renato-toni-92417193/"
-				}
-			]
-		},
-		"software": {
-			"name": "Software Development",
-			"items": [
-				{  
-				    "name":"Adrian Pauli",
-				    "bio":" \nSoftware Engineer\nJury Member Swiss ICT Skills\n\n\n",
-				    "subtitle":"Jury Software Development",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/admin-ajax.png",
-				    "twitter":"https://twitter.com/pauli_adrian",
-				    "linkedin":"https://www.linkedin.com/in/adrian-pauli"
-				},
-				{  
-				    "name":"Aleksandros Ruci",
-				    "bio":"\nComputer Engineering\nSoftware Developer at Baboon \nPresident of Programming Club \nWinner Skills Competitions 2018\n\n",
-				    "subtitle":"Jury Software Development",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/04/aleks-junior-jury.png",
-				    "linkedin":"https://al.linkedin.com/in/aleksandrosruci"
-				},
-				{  
-				    "name":"Arty Havalja",
-				    "bio":"\nB.Sc. Informatics\nSenior Software Developer, Tegeria\nWinner Skills Competitions 2017\nWebmaster Albanian Skills \n",
-				    "subtitle":"Jury Software Development",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/image_6483441-1-e1551500056424.jpg",
-				    "facebook":"https://web.facebook.com/turi.havalja",
-				    "linkedin":"https://www.linkedin.com/in/artur-havalja/"
-				},
-				{  
-				    "name":"Bastian Feder",
-				    "bio":"\nSoftware Engineer\nJury Member Swiss ICT Skills\n\n",
-				    "subtitle":"Jury Software Development",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2016/01/portrait-bastian.jpg",
-				    "facebook":"https://www.facebook.com/lapistano",
-				    "twitter":"https://twitter.com/lapistano",
-				    "linkedin":"https://www.linkedin.com/in/bastianfeder"
-				},
-				{  
-				    "name":"Timonela Fani",
-				    "bio":"\n Master Information  Technology\nSoftware Engineer \n\n\n",
-				    "subtitle":"Jury Software Development ",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/04/Timonela-Fani.png"
-				}
-			]
-		},
-		"marketing": {
-			"name": "Social Media Marketing",
-			"items": [
-				{  
-				    "name":"Genti Selenica",
-				    "bio":"\nInformatics Engineering\nSerial Entrepreneur\nCEO & Co-Founder ENGAL & BABOON, Buy to America\n",
-				    "subtitle":"Jury Social Media Marketing",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2018/02/portrait-genti.png",
-				    "linkedin":"https://www.linkedin.com/in/gentiselenica/"
-				}
-			]
-		},
-		"design": {
-			"name": "Graphic Design",
-			"items": [
-				{  
-				    "name":"Elda Pineti",
-				    "bio":"\nFine Arts Painter\nGraphic & Handcrafted Artist\n\n",
-				    "subtitle":"Jury Graphic Design",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/12/portrait-elda.jpg",
-				    "facebook":"https://www.facebook.com/pages/EP-Handmade-Cards/515411048487346"
-				},
-				{  
-				    "name":"Enxhi Cerpia",
-				    "bio":" \nArt & Design \nDesign & Marketing @ Tirana Business Park\n",
-				    "subtitle":"Jury Graphic Designer",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/enxhi-black-white.jpg",
-				    "linkedin":"https://www.linkedin.com/in/enxhi-%C3%A7erpia-a8a0ba109/"
-				},
-				{  
-				    "name":"Fatmira Prodani",
-				    "bio":" \nJury Graphic Design\nIT & Multimedia -Lecturer\n\n\n",
-				    "subtitle":"Co-Founder and Board Member \nAlbanian Skills-National Association for Skills Competitions",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/02/portrait-fatmira.jpg",
-				    "facebook":"https://www.facebook.com/mira.prodani"
-				},
-				{  
-				    "name":"Herald Xhafa",
-				    "bio":"\nScenographer\nStage Designer TV\nInterior Designer\n",
-				    "subtitle":"Jury Graphic Design",
-				    "avatar":"https://www.albanianskills.org/wp-content/uploads/2016/04/portrait-herald1.png",
-				    "facebook":"https://www.facebook.com/herald.xhafa",
-				    "twitter":"https://twitter.com/HeraldXhafa",
-				    "linkedin":"https://www.linkedin.com/in/herald-xhafa-89a52582"
-				}
-			]
-		}
-	}
-	,
-	"events": [
-		{
-			"title": "8:00 am",
-			"data": [
-				{ "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#33E4F0"},
-				{ "name" : "Meet and Greet", "time": "9:00 am - 9:15 am", "place": "Main hallway", "color":"#33E4F0"}
-			]
-		},
-		{
-			"title": "9:15 am",
-			"data": [
-				{ "name" : "Introduction to Booster.io", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Getting started with React Native", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Advanced JSX", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-			]
-		},
-		{
-			"title": "10:00 am",
-			"data": [
-				{ "name" : "Migration to Expo", "time": "10:00 am - 10:15 am", "place": "Room 2203", "color":"#C12071", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "React Native SVG Icons", "time": "10:15 am - 10:30 am", "place": "Room 2202", "color":"#30C120", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "HapiJS Services", "time": "10:30 am - 10:45 am", "place": "Room 2204", "color":"#DEC311", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Workshop - Advanced JSX", "time": "10:45 am - 11:00 am", "place": "Room 2201", "color":"#36BBE4", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-			]
-		},
-		{
-			"title": "11:00 am",
-			"data": [
-				{ "name" : "Migration from Ionic", "time": "11:00 am - 11:15 am", "place": "Room 2203", "color":"#C12071", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Community Integration", "time": "11:15 am - 11:30 am", "place": "Room 2202", "color":"#808080", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Feathers Workshop", "time": "11:30 am - 12:00 pm", "place": "Room 2204", "color":"#DEC311", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-			]
-		},
-		{
-			"title": "12:00 pm",
-			"data": [
-				{ "name" : "Lunch", "time": "12:00 pm - 1:15 pm", "place": "Auditorium", "color":"#33E4F0"}
-			]
-		},
-		{
-			"title": "1:15 pm",
-			"data": [
-				{ "name" : "Introduction to Booster.io", "time": "1:15 pm - 1:30 pm", "place": "Room 2203", "color":"#3392F0", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Getting started with React Native", "time": "1:30 pm - 1:45 pm", "place": "Room 2202", "color":"#3392F0", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Advanced JSX", "time": "1:45 pm - 2:00 pm", "place": "Room 2204", "color":"#F05233", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-			]
-		},
-		{
-			"title": "2:00 pm",
-			"data": [
-				{ "name" : "Migration to Expo", "time": "2:00 pm - 2:15 pm", "place": "Room 2203", "color":"#C12071", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "React Native SVG Icons", "time": "2:15 pm - 2:30 pm", "place": "Room 2202", "color":"#30C120", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "HapiJS Services", "time": "2:30 pm - 2:45 pm", "place": "Room 2204", "color":"#DEC311", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Workshop - Advanced JSX", "time": "2:45 pm - 3:00 pm", "place": "Room 2201", "color":"#36BBE4", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-			]
-		},
-		{
-			"title": "3:00 pm",
-			"data": [
-				{ "name" : "Migration from Ionic", "time": "3:00 pm - 3:15 pm", "place": "Room 2203", "color":"#C12071", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Community Integration", "time": "3:15 pm - 3:30 pm", "place": "Room 2202", "color":"#808080", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-				{ "name" : "Feathers Workshop", "time": "3:30 pm - 4:00 pm", "place": "Room 2204", "color":"#DEC311", 
-					"speaker":"John Doe",
-				"description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-			]
-		}
-	]
+    },
+    "web": {
+      "name": "Web Development",
+      "items": [
+        {  
+          "name":"Edison Biba",
+          "bio":"\n Informatics\nCo-founder at Leeto\nSoftware Engineer\n\n\n",
+          "subtitle":"Jury Web Development",
+          "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/edison-1-e1551498614742.jpg",
+          "linkedin":"https://www.linkedin.com/in/edison-biba-345402124/"
+        },
+        {  
+          "name":"Leulinda Gutaj",
+          "bio":"\nICT Project Manager\nStudent B.Sc. Business Information and Technology\n\n",
+          "subtitle":"Event Management",
+          "avatar":"https://www.albanianskills.org/wp-content/uploads/2016/01/portrait-leulinda.jpg",
+          "facebook":"https://www.facebook.com/leulinda",
+          "linkedin":"https://www.linkedin.com/in/leulinda-gutaj-a9128a10a"
+          },
+        {  
+          "name":"Lisandër Çuedari",
+          "bio":"\nM.Sc. Computer Engineering\nSenior Software Developer at EasyPay Albania\nIT Trainer & Academy Director\n",
+          "subtitle":"Jury Web Development",
+          "avatar":"https://www.albanianskills.org/wp-content/uploads/2017/04/portrait-lisander.jpg",
+          "facebook":"https://www.facebook.com/profile.php?id=100009164194825",
+          "linkedin":"https://www.linkedin.com/in/lisand%C3%ABr-%C3%A7uedari-70b292102/"
+        },
+        {  
+          "name":"Patrick Zahnd",
+          "bio":"\nSoftware & Systems Engineer\nJury Member Swiss ICT Skills\nSwiss Champion Web Design 2009\n",
+          "subtitle":"Jury Web Development",
+          "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/01/portrait-patrick.jpg",
+          "facebook":"https://www.facebook.com/pazaaa",
+          "linkedin":"http://ch.linkedin.com/pub/patrick-zahnd/10/16/743/de"
+        },
+        {  
+            "name":"Renato Toni",
+            "bio":"\nM.Sc. Informatics\nSenior Solution Architect\n Telecom Industry\n\n",
+            "subtitle":"Jury Web Development",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2017/04/renato.jpg",
+            "linkedin":"https://www.linkedin.com/in/renato-toni-92417193/"
+        }
+      ]
+    },
+    "software": {
+      "name": "Software Development",
+      "items": [
+        {  
+            "name":"Adrian Pauli",
+            "bio":" \nSoftware Engineer\nJury Member Swiss ICT Skills\n\n\n",
+            "subtitle":"Jury Software Development",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/admin-ajax.png",
+            "twitter":"https://twitter.com/pauli_adrian",
+            "linkedin":"https://www.linkedin.com/in/adrian-pauli"
+        },
+        {  
+            "name":"Aleksandros Ruci",
+            "bio":"\nComputer Engineering\nSoftware Developer at Baboon \nPresident of Programming Club \nWinner Skills Competitions 2018\n\n",
+            "subtitle":"Jury Software Development",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/04/aleks-junior-jury.png",
+            "linkedin":"https://al.linkedin.com/in/aleksandrosruci"
+        },
+        {  
+            "name":"Arty Havalja",
+            "bio":"\nB.Sc. Informatics\nSenior Software Developer, Tegeria\nWinner Skills Competitions 2017\nWebmaster Albanian Skills \n",
+            "subtitle":"Jury Software Development",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/image_6483441-1-e1551500056424.jpg",
+            "facebook":"https://web.facebook.com/turi.havalja",
+            "linkedin":"https://www.linkedin.com/in/artur-havalja/"
+        },
+        {  
+            "name":"Bastian Feder",
+            "bio":"\nSoftware Engineer\nJury Member Swiss ICT Skills\n\n",
+            "subtitle":"Jury Software Development",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2016/01/portrait-bastian.jpg",
+            "facebook":"https://www.facebook.com/lapistano",
+            "twitter":"https://twitter.com/lapistano",
+            "linkedin":"https://www.linkedin.com/in/bastianfeder"
+        },
+        {  
+            "name":"Timonela Fani",
+            "bio":"\n Master Information  Technology\nSoftware Engineer \n\n\n",
+            "subtitle":"Jury Software Development ",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/04/Timonela-Fani.png"
+        }
+      ]
+    },
+    "marketing": {
+      "name": "Social Media Marketing",
+      "items": [
+        {  
+            "name":"Genti Selenica",
+            "bio":"\nInformatics Engineering\nSerial Entrepreneur\nCEO & Co-Founder ENGAL & BABOON, Buy to America\n",
+            "subtitle":"Jury Social Media Marketing",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2018/02/portrait-genti.png",
+            "linkedin":"https://www.linkedin.com/in/gentiselenica/"
+        }
+      ]
+    },
+    "design": {
+      "name": "Graphic Design",
+      "items": [
+        {  
+            "name":"Elda Pineti",
+            "bio":"\nFine Arts Painter\nGraphic & Handcrafted Artist\n\n",
+            "subtitle":"Jury Graphic Design",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/12/portrait-elda.jpg",
+            "facebook":"https://www.facebook.com/pages/EP-Handmade-Cards/515411048487346"
+        },
+        {  
+            "name":"Enxhi Cerpia",
+            "bio":" \nArt & Design \nDesign & Marketing @ Tirana Business Park\n",
+            "subtitle":"Jury Graphic Designer",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2019/03/enxhi-black-white.jpg",
+            "linkedin":"https://www.linkedin.com/in/enxhi-%C3%A7erpia-a8a0ba109/"
+        },
+        {  
+            "name":"Fatmira Prodani",
+            "bio":" \nJury Graphic Design\nIT & Multimedia -Lecturer\n\n\n",
+            "subtitle":"Co-Founder and Board Member \nAlbanian Skills-National Association for Skills Competitions",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2015/02/portrait-fatmira.jpg",
+            "facebook":"https://www.facebook.com/mira.prodani"
+        },
+        {  
+            "name":"Herald Xhafa",
+            "bio":"\nScenographer\nStage Designer TV\nInterior Designer\n",
+            "subtitle":"Jury Graphic Design",
+            "avatar":"https://www.albanianskills.org/wp-content/uploads/2016/04/portrait-herald1.png",
+            "facebook":"https://www.facebook.com/herald.xhafa",
+            "twitter":"https://twitter.com/HeraldXhafa",
+            "linkedin":"https://www.linkedin.com/in/herald-xhafa-89a52582"
+        }
+      ]
+    }
+  }
+  ,
+  "events": [
+    {
+      "title": "6 May",
+      "data": [
+        { "name" : "Platforme elektronike per te nxenit e te rriturve ne Europe.", "time": "11:00 AM – 12:00 PM UTC+02", "place": "Tirana Business Park", "color":"#33E4F0",
+          "description": "Ne kuadrin e \"Albanian Skills Week\" do te mbahet nje event ne \"Tirana Bussines Park\" persa i perket te nxenit te te rriturve ne Europe. EPALE eshte nje komunitet europian, shumegjuhesh dhe i hapur i anetaresimit te profesionisteve te te mesuarit per te rritur, duke perfshire trajneret e te rriturve, stafin drejtues dhe  mbeshtetes, kerkuesit, akademiket dhe politikeberesit."
+        },
+        { "name" : "START SMART Paketë orientimi-trajnimi për punëkërkues të papunë", "time": "1:00 PM – 2:00 PM UTC+02", "place": "Tirana Business Park", "color":"#33E4F0"}
+      ]
+    },
+    {
+      "title": "7 May",
+      "data": [
+        { "name" : "The Future of Work and Skills", "time": "9:30 AM – 1:00 PM UTC+02", "place": "Tirana Business Park", "color":"#3392F0", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+      ]
+    },
+    {
+      "title": "10 May",
+      "data": [
+        { "name" : "UX more than design?", "time": "2:00 PM – 5:00 PM UTC+02", "place": "Tirana Business Park", "color":"#C12071", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        ]
+    },
+    {
+      "title": "11 May",
+      "data": [
+        { "name" : "Social Media Marketing Skill Competition", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#C12071", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "National Skills Competitions", "time": "8:30 AM – 7:00 PM UTC+02", "place": "Tirana Business Park", "color":"#808080", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Hotel & Restaurant Service Skill Competition", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Software Development Skill Competition ", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+      { "name" : "Graphic Design Skill Competition", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+      { "name" : "Photography Skill Competition", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+      { "name" : "Web Development Skill Competition", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+      { "name" : "Master Multimedia Concepts", "time": "8:30 AM – 6:30 PM UTC+02", "place": "Tirana Business Park", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+      ]
+    },
+    {
+      "title": "12:00 pm",
+      "data": [
+        { "name" : "Lunch", "time": "12:00 pm - 1:15 pm", "place": "Auditorium", "color":"#33E4F0"}
+      ]
+    },
+    {
+      "title": "1:15 pm",
+      "data": [
+        { "name" : "Introduction to Booster.io", "time": "1:15 pm - 1:30 pm", "place": "Room 2203", "color":"#3392F0", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Getting started with React Native", "time": "1:30 pm - 1:45 pm", "place": "Room 2202", "color":"#3392F0", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Advanced JSX", "time": "1:45 pm - 2:00 pm", "place": "Room 2204", "color":"#F05233", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "2:00 pm",
+      "data": [
+        { "name" : "Migration to Expo", "time": "2:00 pm - 2:15 pm", "place": "Room 2203", "color":"#C12071", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "React Native SVG Icons", "time": "2:15 pm - 2:30 pm", "place": "Room 2202", "color":"#30C120", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "HapiJS Services", "time": "2:30 pm - 2:45 pm", "place": "Room 2204", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Workshop - Advanced JSX", "time": "2:45 pm - 3:00 pm", "place": "Room 2201", "color":"#36BBE4", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    },
+    {
+      "title": "3:00 pm",
+      "data": [
+        { "name" : "Migration from Ionic", "time": "3:00 pm - 3:15 pm", "place": "Room 2203", "color":"#C12071", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Community Integration", "time": "3:15 pm - 3:30 pm", "place": "Room 2202", "color":"#808080", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+        { "name" : "Feathers Workshop", "time": "3:30 pm - 4:00 pm", "place": "Room 2204", "color":"#DEC311", 
+          "speaker":"John Doe",
+        "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+      ]
+    }
+  ]
 }
