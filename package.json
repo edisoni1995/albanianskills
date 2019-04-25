@@ -37,7 +37,10 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "esm": "^3.2.22",
     "expo": "^26.0.0",
+    "expo-server-sdk": "^3.2.0",
+    "express": "^4.16.4",
     "prop-types": "^15.6.1",
     "react": "16.3.0-alpha.1",
     "react-native": "0.54.0",
